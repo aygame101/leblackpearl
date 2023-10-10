@@ -73,6 +73,18 @@ main p {
 }
 
 
+h1 {
+    font-family: 'Inter', sans-serif;
+}
+
+h2 {
+    font-family: 'Inter', sans-serif;
+}
+
+h3 {
+    font-family: 'Inter', sans-serif;
+}
+
 /* For old button blackpearl */
 main p .button_blackpearl{
     color: #262626;
@@ -257,14 +269,18 @@ footer {
 
 .footer_mentions {
     color:#dab040;
-    margin-bottom: 0px;
+    margin-bottom: 30px;
     font-size: 20px;
 }
 
 .footer {
-    color:#dab040;
+    color:#a6a6a6;
     margin-bottom: 0px;
-    font-size: 15px;
+    font-size: 12px;
+}
+
+.footer a {
+    color: #a6a6a6;
 }
 
 footer p {
@@ -279,7 +295,7 @@ footer a {
 
 .last_line_footer {
     margin-top: 0px;
-    color: #dab040;
+    color: #a6a6a6;
     font-size: 12px;
 }
 
