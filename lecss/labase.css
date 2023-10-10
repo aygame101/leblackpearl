@@ -1,0 +1,56 @@
+/* Delete underline for link and color white for h1 */
+#no_deco_h1 {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.header {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    padding-top: 0px;
+}
+
+/* Delete underline for link and color gold for h2 */
+#no_deco_h2 {
+    text-decoration: none;
+    color: #dab040;
+    font-weight: 400;
+}
+
+/* Heading h1 and logo and same line */
+.header img {
+    float: left;
+    width: 250px;
+    /* height: 100px; */
+}
+  
+.header h1 {
+    position: relative;
+    top: 18px;
+    left: 10px;
+    bottom: 0px;
+    font-size: 6em;
+}
+
+.header h2 {
+    position: relative;
+    left: 10px;
+    top: 0px;
+    font-size: 4em;
+}
+
+body {
+    background-color: #262626;
+}
+
+body main {
+    margin-top: 100px;
+}
+
+body main p {
+    text-align: left;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 30px;
+}

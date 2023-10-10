@@ -1,0 +1,66 @@
+/* Color, font for h1 and p */
+.color_text{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/* --- */
+
+/* logo */
+#logo img{
+    width: 250px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* --- */
+
+
+body {
+    background-color: #262626;
+}
+
+main {
+    margin-top: 250px;
+}
+
+main p {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 40px;
+}
+
+/* css 2 lignes footer */
+footer {
+    padding-top: 500px;
+    text-align: center;
+}
+
+footer p a {
+    text-decoration: none;
+    color: #ffefc5;
+}
+
+footer p {
+    margin-bottom: 0px;
+    line-height: 15px;
+}
+
+.last_line_footer {
+    font-size: 10px;
+}
+a{
+    text-decoration: none;
+}
+
+#menu p a{
+    color: #dab040;
+    font-size: 2.5em;
+}
