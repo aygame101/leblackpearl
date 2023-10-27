@@ -241,11 +241,11 @@ footer p {
 
 #first_p_text_top_map {
     font-size: 42px;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 #between_first_second_text {
-    margin-top: 15px;
+    margin-top: 100px;
 }
 
 #second_p_text_top_map {
@@ -261,48 +261,30 @@ hr {
     height: 1px;
 }
 
-/* FOOTER CSS */
-footer {
-    padding-top: 500px;
+/* Footer Fond blanc */
+.footer_index {
     text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: white;
 }
 
-.footer_mentions {
-    color:#dab040;
-    margin-bottom: 30px;
-    font-size: 20px;
+a {
+    color: white;
+    font-family: 'Roboto', sans-serif;
 }
 
-.footer {
-    color:#a6a6a6;
-    margin-bottom: 0px;
-    font-size: 12px;
+.a_frst_line {
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
 }
 
-.footer a {
-    color: #a6a6a6;
+.footer_index_un {
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 350px;
 }
-
-footer p {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 500;
-}
-
-footer a {
-    text-decoration: none;
-    color: #dab040;
-}
-
-.last_line_footer {
-    margin-top: 0px;
-    color: #a6a6a6;
-    font-size: 12px;
-}
-
-#a_footer {
-    text-decoration: underline;
-}
-
+/* --------------- */
 
 /* CSS MENTIONS LEGALES */
 .mentions {
